@@ -14,7 +14,7 @@ CS 101 - Fundamentals of Computer Science I
 > Section | Location | Times
 > ------- | -------- | -----
 > 101 | KEC 119 | T/R 9:30am - 10:45am 
-> 102 | KEC 119 | W/F 12:30pm - 1:45pm 
+> 102 | KEC 119 | T/R 12:30pm - 1:45pm 
  
 
 Instructors: 
