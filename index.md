@@ -37,7 +37,7 @@ All information about the course will be posted here.
 </div>
 
 ## News
-* **Jan 27** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
+* **Jan 27** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
 
 <!--
 * **Apr 30** &mdash; A solution to the fourth practice exam has been posted on the [Practice Exams](practice/index.html) page.  Don't forget that Exam 4 takes place in class on **Thursday, May 3rd**.
