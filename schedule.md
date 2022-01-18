@@ -41,7 +41,6 @@ Apr 21 | **Exam 3 Review**| |
 Apr 26 | **Exam 3**| |
 Apr 28 | [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Structures Containing Structures*<br>[Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
 May 03 | [Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
-May 05 | [Lecture 20: Arrays of structures](lectures/lecture20.html) cont. | &mdash; | &mdash;
 Thu, May 12| **Final Exam for Section 101 @ 8:00 AM - 10:00 AM**
 Thu, May 12| **Final Exam for Section 102 @ 10:15 AM - 12:15 PM**
 
