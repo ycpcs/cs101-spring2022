@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 4: Falling Dominoes"
 ---
 
-Design due in class on **Thursday, April 15th**
+Design due in class on **Thursday, April 14th**
 
-Code due **Thursday, April 22nd** by 11:59 PM
+Code due **Thursday, April 21st** by 11:59 PM
 
 *Updated 4/08* &mdash; Changed grading criteria for assign a point value to the design artifact
 

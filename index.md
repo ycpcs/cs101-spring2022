@@ -38,6 +38,7 @@ All information about the course will be posted here.
 </div>
 
 ## News
+* **Jan 27** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
 <!--
 * **Apr 30** &mdash; A solution to the fourth practice exam has been posted on the [Practice Exams](practice/index.html) page.  Don't forget that Exam 4 takes place in class on **Thursday, May 3rd**.
 * **Apr 18** &mdash; The due dates for [Assignment 5](assign/assign05.html) are:
@@ -63,7 +64,7 @@ All information about the course will be posted here.
     * Exam 1 will be given in class on Tuesday, Feb 13th.  A practice exam is posted on the [Practice Exams](practice/index.html) page.
 * **Jan 25** &mdash; An example design for [Assignment 1](assign/assign01.html) is available on the [Design information](design/index.html) page.
 * **Jan 24** &mdash; As we mentioned in class, the design for [Assignment 1](assign/assign01.html) is due tomorrow (Thursday, Jan 25th) and the code is due on Tuesday, Jan 30th.
-* **Jan 18** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
+
 -->
 
 <!-- vim:set wrap: -->
