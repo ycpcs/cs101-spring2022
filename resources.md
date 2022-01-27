@@ -17,7 +17,7 @@ This page contains links to useful resources.
 
 > Then use the **Terminal** application (located in Applications/Utilities) wherever cygwin would be used in Windows. 
 >
->    $ sudo xcode-select --install
+>     $ sudo xcode-select --install
 >
 > You may use any text editor for editing the source files, e.g. TextEdit, or a nice (free) one is **BBEdit** available from the Mac App Store (free).
 
