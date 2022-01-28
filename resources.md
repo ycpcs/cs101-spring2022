@@ -13,7 +13,13 @@ This page contains links to useful resources.
 
 **Mac**
 
-> Install Xcode by downloading it from the Mac App Store (free). After XCode is installed, go to XCode &rarr; Preferences &rarr; Downloads and install **Command Line Tools**. Then use a **Terminal** (located in Applications/Utilities) wherever cygwin would be used in Windows. You may use any text editor for editing the source files, e.g. TextEdit, or a nice (free) one is [TextWrangler](http://www.barebones.com/products/textwrangler/).
+> Install Xcode by downloading it from the Mac App Store (free). After Xcode is installed, install the **Command Line Tools** by opening the **Terminal** (located in Applications/Utilities) and execute
+>
+>     $ sudo xcode-select --install
+>
+> Then use the **Terminal** application (located in Applications/Utilities) wherever cygwin would be used in Windows. 
+>
+> You may use any text editor for editing the source files, e.g. TextEdit, or a nice (free) one is **BBEdit** available from the Mac App Store (free).
 
 **Linux**
 
@@ -27,3 +33,4 @@ This page contains links to useful resources.
 >
 >     sudo apt-get install gedit
 >     sudo apt-get install kate
+
