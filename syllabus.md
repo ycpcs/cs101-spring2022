@@ -21,7 +21,7 @@ Instructors:
 
 > Section(s)|Office| Instructor| Office hours
 > ---------- | ---------- | ------------- | ---------- 
-> 101 		|KEC 115 (815-6547)| Krishna Kambhampaty <kkambhampaty@ycp.edu> | Mon, Wed: 9:00am - 10:30am & Tuesday, Thursday: 1:00pm - 2:00pm or by appointment
+> 101 		|KEC 115 (815-6547)| Krishna Kambhampaty <kkambhampaty@ycp.edu> | Mon, Wed: 9:00am - 10:30am & Tue, Thu: 1:00pm - 2:00pm or by appointment
 > 102       |KEC 137 		   | Deepti Jindal <djindal@ycp.edu> 			| Tue, Thu 1:45pm - 2:15pm or by appointment
 
 

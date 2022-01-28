@@ -10,7 +10,7 @@ title: "Assignment 2: Let's Make A Deal"
     * Code due: **Thursday, Mar 10th** by 11:59 PM
 * Milestone 2:
     * Design due: **Tuesday, Mar 15th** in class
-    * Code due: **Thursday, Mar 17th** by 11:59 PM
+    * Code due: **Tuesday, Mar 22nd** by 11:59 PM
 
 Getting Started
 ===============
@@ -135,7 +135,7 @@ For each strategy, play the game 20 times. What percentage of games did you win 
 
 Using Notepad++, create an empty document and write a brief summary of your findings. Save it as a file called **experiment.txt** in your **CS101\_Assign02** folder. In the report, indicate what percentage of games you won using each strategy. If one strategy seems to be better, state which one.
 
-Submit your code and report (the second and third deliverables) to Marmoset by running `make submit_ms2`.  They are due by the end of day on **Thursday, Mar 17th**.
+Submit your code and report (the second and third deliverables) to Marmoset by running `make submit_ms2`.  They are due by the end of day on **Tuesday, Mar 22nd**.
 
 Hints
 -----

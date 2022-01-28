@@ -7,8 +7,6 @@ Design due in class on **Thursday, April 14th**
 
 Code due **Thursday, April 21st** by 11:59 PM
 
-*Updated 4/08* &mdash; Changed grading criteria for assign a point value to the design artifact
-
 # Getting Started
 
 Start by downloading [CS101\_Assign04.zip](CS101_Assign04.zip), saving it in the directory **H:\\CS101**.
