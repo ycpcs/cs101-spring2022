@@ -39,6 +39,10 @@ All information about the course will be posted here.
 ## News
 * **Jan 27** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
 
+* **Feb 15** &mdash; The Design for [Assignment 1](assign/assign01.html) is due.
+* **Feb 17** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM.
+* **Feb 17** &mdash; Exam 1 will be given in class on Thursday, Feb 17th.
+
 <!--
 * **Apr 30** &mdash; A solution to the fourth practice exam has been posted on the [Practice Exams](practice/index.html) page.  Don't forget that Exam 4 takes place in class on **Thursday, May 3rd**.
 * **Apr 18** &mdash; The due dates for [Assignment 5](assign/assign05.html) are:
@@ -62,7 +66,7 @@ All information about the course will be posted here.
 * **Jan 31** &mdash; Reminders:
     * The design for [Assignment 2](assign/assign02.html) Milestone 1 is due at the beginning of class on Tuesday, Feb 6th.  You will need to turn in a hard copy of your design.
     * Exam 1 will be given in class on Tuesday, Feb 13th.  A practice exam is posted on the [Practice Exams](practice/index.html) page.
-* **Jan 25** &mdash; An example design for [Assignment 1](assign/assign01.html) is available on the [Design information](design/index.html) page.
+
 * **Jan 24** &mdash; As we mentioned in class, the design for [Assignment 1](assign/assign01.html) is due tomorrow (Thursday, Jan 25th) and the code is due on Tuesday, Jan 30th.
 
 -->
