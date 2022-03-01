@@ -42,7 +42,10 @@ All information about the course will be posted here.
 * **Feb 15** &mdash; The Design for [Assignment 1](assign/assign01.html) is due.
 * **Feb 17** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM.
 * **Feb 17** &mdash; Exam 1 will be given in class on Thursday, Feb 17th.
-
+* **Mar 08** &mdash; The Design for MS1 [Assignment 2](assign/assign02.html) is due.
+* **Mar 13** &mdash; The code for MS1 [Assignment 2](assign/assign02.html) is due by 11:59PM.
+* **Mar 15** &mdash; The Design for MS2[Assignment 2](assign/assign02.html) is due.
+* **Mar 22** &mdash; The code for MS2 [Assignment 2](assign/assign02.html) is due by 11:59PM.
 <!--
 * **Apr 30** &mdash; A solution to the fourth practice exam has been posted on the [Practice Exams](practice/index.html) page.  Don't forget that Exam 4 takes place in class on **Thursday, May 3rd**.
 * **Apr 18** &mdash; The due dates for [Assignment 5](assign/assign05.html) are:
