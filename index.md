@@ -46,6 +46,8 @@ All information about the course will be posted here.
 * **Mar 13** &mdash; The code for MS1 [Assignment 2](assign/assign02.html) is due by 11:59PM.
 * **Mar 15** &mdash; The Design for MS2[Assignment 2](assign/assign02.html) is due.
 * **Mar 22** &mdash; The code for MS2 [Assignment 2](assign/assign02.html) is due by 11:59PM.
+* **Mar 29** &mdash; Exam 2 will take place in class on **Tuesday, Mar 29th**.  A practice exam has been posted on the [Practice Exams](practice/index.html) page.
+* **Mar 31** &mdash; The due date for [Assignment 3](assign/assign03.html) has been moved to **Thursday, Mar 31st**.
 
 <!--
 * **Apr 30** &mdash; A solution to the fourth practice exam has been posted on the [Practice Exams](practice/index.html) page.  Don't forget that Exam 4 takes place in class on **Thursday, May 3rd**.
@@ -64,7 +66,7 @@ All information about the course will be posted here.
 * **Mar 21** &mdash; The assignment description for [Assignment 4](assign/assign04.html) has been updated.
 * **Mar 7** &mdash; A solution to the second practice exam is available on the [Practice Exams](practice/index.html) page.
 * **Mar 5** &mdash; Exam 2 will take place in class on **Tuesday, Mar 13th**.  A practice exam has been posted on the [Practice Exams](practice/index.html) page.
-* **Mar 5** &mdash; The due date for [Assignment 3](assign/assign03.html) has been moved to **Monday, Mar 12th**.
+
 * **Feb 13** &mdash; The due date for the [Assignment 2](assign/assign02.html), Milestone 2 design artifact has been moved to **Tuesday, Feb 20th**.
 * **Feb 7** &mdash; A solution to the first practice exam has been posted on the [Practice Exams](practice/index.html) page.
 * **Jan 31** &mdash; Reminders:
