@@ -2,8 +2,9 @@
 layout: default
 title: "Assignment 3: Loop Exercises"
 ---
+**Update: New due date:Thursday, March 31st by 11:59 PM**
+**Old Due date:Tuesday, March 29th by 11:59 PM**
 
-**Due date:Tuesday, March 29th by 11:59 PM**
 
 <div class="callout">
 Note that late submissions will <em>not</em> be accepted for this assignment.
