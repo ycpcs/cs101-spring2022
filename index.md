@@ -47,7 +47,9 @@ All information about the course will be posted here.
 * **Mar 15** &mdash; The Design for MS2[Assignment 2](assign/assign02.html) is due.
 * **Mar 22** &mdash; The code for MS2 [Assignment 2](assign/assign02.html) is due by 11:59PM.
 * **Mar 29** &mdash; Exam 2 will take place in class on **Tuesday, Mar 29th**.  A practice exam has been posted on the [Practice Exams](practice/index.html) page.
+* **Mar 31** &mdash; **No class on Thursday, Mar 31st due to Spartan Day**.
 * **Mar 31** &mdash; The due date for [Assignment 3](assign/assign03.html) has been moved to **Thursday, Mar 31st**.
+
 
 <!--
 * **Apr 30** &mdash; A solution to the fourth practice exam has been posted on the [Practice Exams](practice/index.html) page.  Don't forget that Exam 4 takes place in class on **Thursday, May 3rd**.
