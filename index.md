@@ -49,6 +49,8 @@ All information about the course will be posted here.
 * **Mar 29** &mdash; Exam 2 will take place in class on **Tuesday, Mar 29th**.  A practice exam has been posted on the [Practice Exams](practice/index.html) page.
 * **Mar 31** &mdash; **No class** on Thursday, Mar 31st due to Spartan Day.
 * **Mar 31** &mdash; The due date for [Assignment 3](assign/assign03.html) has been moved to **Thursday, Mar 31st**.
+* **Apr 14** &mdash; Assignment 4 Design is due on Thursday, April 14th.
+* **Apr 21** &mdash; Assignment 4 Code is due on Thursday, April 21st.
 
 
 <!--
@@ -58,8 +60,7 @@ All information about the course will be posted here.
     * Code due on Friday, May 4th
 * **Apr 12** &mdash; [Assignment 5](assign/assign05.html) has been posted.  The due dates are still to be determined.
 * **Apr 10** &mdash; A solution to the third practice exam has been posted on the [Practice Exams](practice/index.html) page.
-* **Apr 3** &mdash; A correction has been made to the [reference design](design/assign04-design.pdf) for [Assignment 4](assign/assign04.html).  (See second page.)
-* **Mar 28** &mdash; A reference design for [Assignment 4](assign/assign04.html) has been posted to the [Design information](design/index.html) page.
+* **Apr 21** &mdash; A reference design for [Assignment 4](assign/assign04.html) has been posted to the [Design information](design/index.html) page.
 * **Mar 27** &mdash; The [Lab schedule](labs/index.html) has been updated.
 * **Mar 23** &mdash; Exam 3 will take place in class on **Thursday, Apr 12th**.  A practice exam is available on the [Practice Exams](practice/index.html) page.
 * **Mar 23** &mdash; Due to the cancellation of classes on Thursday, we are making the following adjustments:
