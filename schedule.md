@@ -39,8 +39,9 @@ Apr 14 | [Lecture 18: Pointers to structures](lectures/lecture18.html)<br>Chapte
 Apr 19 | Catch up day | &mdash; | &mdash;
 Apr 21 | [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Structures Containing Structures*<br>[Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
 Apr 26 | [Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
-Apr 28 | **Exam 3 Review**| |
-May 03 | **Exam 3**| |
+Apr 28 | Catch up day | &mdash; | &mdash;
+May 03 | **Exam 3 Review**| |
+May 05 | **Exam 3**| |
 Thu, May 12| **Final Exam for Section 101 @ 8:00 AM - 10:00 AM**
 Thu, May 12| **Final Exam for Section 102 @ 10:15 AM - 12:15 PM**
 
