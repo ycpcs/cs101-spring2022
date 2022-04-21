@@ -51,6 +51,8 @@ All information about the course will be posted here.
 * **Mar 31** &mdash; The due date for [Assignment 3](assign/assign03.html) has been moved to **Thursday, Mar 31st**.
 * **Apr 14** &mdash; Assignment 4 Design [Assignment 4](assign/assign04.html) is due on Thursday, April 14th.
 * **Apr 21** &mdash; Assignment 4 Code [Assignment 4](assign/assign04.html) is due on Thursday, April 21st.
+* **Apr 28** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 1** is due by 11:59PM
+* **May 8** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 2** is due by 11:59PM
 
 
 <!--
