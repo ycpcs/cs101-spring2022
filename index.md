@@ -53,7 +53,7 @@ All information about the course will be posted here.
 * **Apr 21** &mdash; Assignment 4 Code [Assignment 4](assign/assign04.html) is due on Thursday, April 21st.
 * **Apr 28** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 1** is due by 11:59PM
 * **May 8** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 2** is due by 11:59PM
-
+* **May 05** &mdash; Exam 3 will take place in class on **Thursday, May 05th**.  A practice exam is available on the [Practice Exams](practice/index.html) page.
 
 <!--
 * **Apr 30** &mdash; A solution to the fourth practice exam has been posted on the [Practice Exams](practice/index.html) page.  Don't forget that Exam 4 takes place in class on **Thursday, May 3rd**.
@@ -64,7 +64,7 @@ All information about the course will be posted here.
 * **Apr 10** &mdash; A solution to the third practice exam has been posted on the [Practice Exams](practice/index.html) page.
 * **Apr 21** &mdash; A reference design for [Assignment 4](assign/assign04.html) has been posted to the [Design information](design/index.html) page.
 * **Mar 27** &mdash; The [Lab schedule](labs/index.html) has been updated.
-* **Mar 23** &mdash; Exam 3 will take place in class on **Thursday, Apr 12th**.  A practice exam is available on the [Practice Exams](practice/index.html) page.
+
 * **Mar 23** &mdash; Due to the cancellation of classes on Thursday, we are making the following adjustments:
     * The [Schedule](schedule.html) has been updated
     * The deadline for submitting the code for [Assignment 4](assign/assign04.html) has been extended to **Thursday, Apr 5th**
